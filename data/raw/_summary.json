@@ -1,0 +1,82 @@
+{
+ "programas_nna": {
+  "count": 108,
+  "geometry": "esriGeometryPoint",
+  "fields": 37
+ },
+ "programas_nna_edicion": {
+  "count": 269,
+  "geometry": "esriGeometryPoint",
+  "fields": 41
+ },
+ "resumen_programas": {
+  "count": 149,
+  "geometry": "esriGeometryPoint",
+  "fields": 28
+ },
+ "resumen_prog_le": {
+  "count": 85,
+  "geometry": null,
+  "fields": 6
+ },
+ "beneficiarios": {
+  "count": 1,
+  "geometry": "esriGeometryPoint",
+  "fields": 13
+ },
+ "unidades_vecinales": {
+  "count": 15,
+  "geometry": "esriGeometryPolygon",
+  "fields": 15
+ },
+ "manzanas_uv": {
+  "count": 807,
+  "geometry": "esriGeometryPolygon",
+  "fields": 233
+ },
+ "mbht_2017": {
+  "count": 765,
+  "geometry": "esriGeometryPolygon",
+  "fields": 46
+ },
+ "ctx_bomberos": {
+  "count": 3,
+  "geometry": "esriGeometryPoint",
+  "fields": 12
+ },
+ "ctx_colegios": {
+  "count": 36,
+  "geometry": "esriGeometryPoint",
+  "fields": 18
+ },
+ "ctx_carabineros": {
+  "count": 3,
+  "geometry": "esriGeometryPoint",
+  "fields": 7
+ },
+ "ctx_deporte": {
+  "count": 56,
+  "geometry": "esriGeometryPoint",
+  "fields": 13
+ },
+ "ctx_jardines": {
+  "count": 25,
+  "geometry": "esriGeometryPoint",
+  "fields": 16
+ },
+ "ctx_pdi": {
+  "count": 1,
+  "geometry": "esriGeometryPoint",
+  "fields": 3
+ },
+ "ctx_salud": {
+  "count": 9,
+  "geometry": "esriGeometryPoint",
+  "fields": 31
+ },
+ "ctx_servicios": {
+  "count": 7,
+  "geometry": "esriGeometryPoint",
+  "fields": 16
+ }
+}

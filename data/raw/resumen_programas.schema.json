@@ -1,0 +1,148 @@
+{
+ "url": "https://services.arcgis.com/JZxvGBwvCaXCwa4l/arcgis/rest/services/Resumen_Programas_Lo_Espejo/FeatureServer/0",
+ "name": "Hoja1",
+ "geometryType": "esriGeometryPoint",
+ "count": 149,
+ "fields": [
+  {
+   "name": "SITUACIÓN",
+   "alias": "SITUACIÓN",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "CATEGORÍA",
+   "alias": "CATEGORÍA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ORGANIZACIÓN_ORIGEN",
+   "alias": "ORGANIZACIÓN ORIGEN",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ORGANIZACIÓN_ORIGEN_CORREGIDA",
+   "alias": "ORGANIZACIÓN DE ORIGEN",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "PROGRAMA___OFERTA___PRESTACIÓN",
+   "alias": "PROGRAMA_OFERTA_PRESTACIÓN",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "PROGRAMA___OFERTA___PRESTACIÓN_CORREGIDO",
+   "alias": "PROGRAMA   ",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ORGANIZACIÓN_EJECUTORA",
+   "alias": "ORGANIZACIÓN_EJECUTORA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ORGANIZACIÓN_EJECUTORA_RESUMEN",
+   "alias": "ORGANIZACIÓN EJECUTORA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "DESCRIPCIÓN_DEL_PROGRAMA___OFERTA___PRESTACIÓN",
+   "alias": "DESCRIPCIÓN_PROGRAMA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "DESC_RES",
+   "alias": "DESCRIPCIÓN DEL PROGRAMA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "PÚBLICO_OBJETIVO",
+   "alias": "PÚBLICO OBJETIVO",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "TIPO_DE_INTERVENCIÓN",
+   "alias": "TIPO DE INTERVENCIÓN",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "REQUISITOS_PARA_ACCEDER",
+   "alias": "REQUISITOS PARA ACCEDER",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "VÍAS_DE_INGRESO",
+   "alias": "VÍAS DE INGRESO",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "DIRECCIÓN_ES",
+   "alias": "DIRECCIÓN",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "DIRECCIÓN",
+   "alias": "DIRECCIÓN",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "COMUNA",
+   "alias": "COMUNA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "REGIÓN",
+   "alias": "REGIÓN",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "PAÍS",
+   "alias": "PAÍS",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "LINK_DE_REFERENCIA",
+   "alias": "LINK DE REFERENCIA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "NOMBRE",
+   "alias": "NOMBRE_ENCARGADO",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "CARGO",
+   "alias": "CARGO",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ORGANIZACIÓN_UNIDAD",
+   "alias": "ORGANIZACIÓN_UNIDAD",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "CORREO",
+   "alias": "CORREO",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "TELÉFONO",
+   "alias": "TELÉFONO",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "MODIFICADO",
+   "alias": "MODIFICADO_BBDD",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "FID",
+   "alias": "FID",
+   "type": "esriFieldTypeOID"
+  },
+  {
+   "name": "ORGANIZACIÓN_IMPLEMENTADORA",
+   "alias": "ORGANIZACIÓN IMPLEMENTADORA",
+   "type": "esriFieldTypeString"
+  }
+ ]
+}

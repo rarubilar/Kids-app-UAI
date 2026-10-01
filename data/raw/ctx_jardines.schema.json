@@ -1,0 +1,88 @@
+{
+ "url": "https://services.arcgis.com/JZxvGBwvCaXCwa4l/arcgis/rest/services/EL_SAUCE_Shape_contexto/FeatureServer/4",
+ "name": "Jardines infantiles",
+ "geometryType": "esriGeometryPoint",
+ "count": 25,
+ "fields": [
+  {
+   "name": "FID",
+   "alias": "FID",
+   "type": "esriFieldTypeOID"
+  },
+  {
+   "name": "AGNO",
+   "alias": "AGNO",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "ID_ESTAB",
+   "alias": "ID_ESTAB",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "ID_ESTAB_C",
+   "alias": "ID_ESTAB_C",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "NOM_ESTAB",
+   "alias": "NOM_ESTAB",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ORIGEN",
+   "alias": "ORIGEN",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "COD_COM_ES",
+   "alias": "COD_COM_ES",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "ESTADO_EST",
+   "alias": "ESTADO_EST",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "N_MAT_SC",
+   "alias": "N_MAT_SC",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "N_MAT_M",
+   "alias": "N_MAT_M",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "N_MAT_T",
+   "alias": "N_MAT_T",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "TOTAL_SC_M",
+   "alias": "TOTAL_SC_M",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "N_TOTAL",
+   "alias": "N_TOTAL",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "Nota",
+   "alias": "Nota",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ID_CIT",
+   "alias": "ID_CIT",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "NOMBRE",
+   "alias": "NOMBRE",
+   "type": "esriFieldTypeString"
+  }
+ ]
+}

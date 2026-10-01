@@ -1,0 +1,43 @@
+{
+ "url": "https://services.arcgis.com/JZxvGBwvCaXCwa4l/arcgis/rest/services/EL_SAUCE_Shape_contexto/FeatureServer/2",
+ "name": "Cuarteles_Carabineros",
+ "geometryType": "esriGeometryPoint",
+ "count": 3,
+ "fields": [
+  {
+   "name": "FID",
+   "alias": "FID",
+   "type": "esriFieldTypeOID"
+  },
+  {
+   "name": "NOMBRE_REG",
+   "alias": "NOMBRE_REG",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "NOMBRE_PRO",
+   "alias": "NOMBRE_PRO",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "NOMBRE_COM",
+   "alias": "NOMBRE_COM",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "NOMBRE_UNI",
+   "alias": "NOMBRE_UNI",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "TIPO_DE_UN",
+   "alias": "TIPO_DE_UN",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "PREFECTURA",
+   "alias": "PREFECTURA",
+   "type": "esriFieldTypeString"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "url": "https://services.arcgis.com/JZxvGBwvCaXCwa4l/arcgis/rest/services/EL_SAUCE_Shape_contexto/FeatureServer/9",
+ "name": "Servicios públicos",
+ "geometryType": "esriGeometryPoint",
+ "count": 7,
+ "fields": [
+  {
+   "name": "FID",
+   "alias": "FID",
+   "type": "esriFieldTypeOID"
+  },
+  {
+   "name": "ID",
+   "alias": "ID",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "Id_Inst",
+   "alias": "Id_Inst",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "INSTITUCI",
+   "alias": "INSTITUCI",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "OFICINA",
+   "alias": "OFICINA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "DIRECCIÓN",
+   "alias": "DIRECCIÓN",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "COMUNA",
+   "alias": "COMUNA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "cod_com",
+   "alias": "cod_com",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "REGIÓN",
+   "alias": "REGIÓN",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "cod_reg",
+   "alias": "cod_reg",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "CATEGORÍA",
+   "alias": "CATEGORÍA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "TIPO",
+   "alias": "TIPO",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "FUENTE",
+   "alias": "FUENTE",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "direccion",
+   "alias": "direccion",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "latitude",
+   "alias": "latitude",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "longitude",
+   "alias": "longitude",
+   "type": "esriFieldTypeDouble"
+  }
+ ]
+}

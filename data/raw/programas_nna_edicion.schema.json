@@ -1,0 +1,213 @@
+{
+ "url": "https://services.arcgis.com/JZxvGBwvCaXCwa4l/arcgis/rest/services/Programas_Lo_Espejo_NNA/FeatureServer/0",
+ "name": "Programas_Lo_Espejo_NNA",
+ "geometryType": "esriGeometryPoint",
+ "count": 269,
+ "fields": [
+  {
+   "name": "FID",
+   "alias": "FID",
+   "type": "esriFieldTypeOID"
+  },
+  {
+   "name": "ID",
+   "alias": "ID",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "SITUACIÓN",
+   "alias": "SITUACIÓN*",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "CATEGORÍA",
+   "alias": "CATEGORÍA*",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ORG_ORI",
+   "alias": "ORGANIZACIÓN DE ORÍGEN*",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "PROGRAMA",
+   "alias": "NOMBRE DEL PROGRAMA*",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ORG_EJEC",
+   "alias": "ORGANIZACIÓN IMPLEMENTADORA*",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "DESC_P_RES",
+   "alias": "DESCRIPCIÓN DEL PROGRAMA*",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "PUBL_OBJET",
+   "alias": "PÚBLICO OBJETIVO*",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "TIPO_INT",
+   "alias": "TIPO DE INTERVENCIÓN*",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "REQUISITO",
+   "alias": "REQUISITOS*",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "V_INGRESO",
+   "alias": "VÍAS DE INGRESO*",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "DIREC_OR",
+   "alias": "DIREC_ORIGINAL",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "DIREC_ESP",
+   "alias": "DIRECCIÓN*",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "COMUNA_1",
+   "alias": "COMUNA*",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "REGION",
+   "alias": "REGION",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "LINK_REF",
+   "alias": "LINK DE REFERENCIA*",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ENC_NOMBRE",
+   "alias": "NOMBRE DEL ENCARGADO DEL PROGRAMA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ENC_CARGO",
+   "alias": "CARGO DEL ENCARGADO DEL PROGRAMA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ENC_UNIDAD",
+   "alias": "UNIDAD DEL ENCARGADO",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ENC_CORREO",
+   "alias": "CORREO DEL ENCARGADO DEL PROGRAMA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ENC_TELEFO",
+   "alias": "TELÉFONO DEL ENCARGADO DEL PROGRAMA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "BD_MODIFIC",
+   "alias": "BD_MODIFICADA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "PARTICIP",
+   "alias": "PARTICIPANTES",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "CUPOS",
+   "alias": "CUPOS",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "Creator",
+   "alias": "Creator",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "EditDate",
+   "alias": "EditDate",
+   "type": "esriFieldTypeDate"
+  },
+  {
+   "name": "Editor",
+   "alias": "Editor",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "GlobalID",
+   "alias": "GlobalID",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "CreationDa",
+   "alias": "CreationDa",
+   "type": "esriFieldTypeDate"
+  },
+  {
+   "name": "EDICION",
+   "alias": "EDICION",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "GlobalID_2",
+   "alias": "GlobalID_2",
+   "type": "esriFieldTypeGlobalID"
+  },
+  {
+   "name": "CreationDate",
+   "alias": "CreationDate",
+   "type": "esriFieldTypeDate"
+  },
+  {
+   "name": "Creator_1",
+   "alias": "Creator",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "EditDate_1",
+   "alias": "EditDate",
+   "type": "esriFieldTypeDate"
+  },
+  {
+   "name": "Editor_1",
+   "alias": "Editor",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "DIAS_SEMANA",
+   "alias": "DÍA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "HORARIO",
+   "alias": "HORARIO",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "DURACIÓN",
+   "alias": "TIEMPO DE DURACIÓN",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "inversión_asociada",
+   "alias": "INVERSIÓN ASOCIADA",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "ORGANIZACIÓN_IMPLEMENTADORA",
+   "alias": "ORGANIZACIÓN IMPLEMENTADORA",
+   "type": "esriFieldTypeString"
+  }
+ ]
+}

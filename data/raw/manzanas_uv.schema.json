@@ -1,0 +1,1173 @@
+{
+ "url": "https://services.arcgis.com/JZxvGBwvCaXCwa4l/arcgis/rest/services/MZ_UV_LO_ESPEJO/FeatureServer/0",
+ "name": "MZ_UV_LO_ESPEJO",
+ "geometryType": "esriGeometryPolygon",
+ "count": 807,
+ "fields": [
+  {
+   "name": "FID",
+   "alias": "FID",
+   "type": "esriFieldTypeOID"
+  },
+  {
+   "name": "Join_Count",
+   "alias": "Join_Count",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "TARGET_FID",
+   "alias": "TARGET_FID",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "CUT",
+   "alias": "CUT",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "COD_REGION",
+   "alias": "COD_REGION",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "REGION",
+   "alias": "REGION",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "COD_PROVIN",
+   "alias": "COD_PROVIN",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "PROVINCIA",
+   "alias": "PROVINCIA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "COMUNA",
+   "alias": "COMUNA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "AREA_C",
+   "alias": "AREA_C",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "MANZENT",
+   "alias": "MANZENT",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "DISTRITO",
+   "alias": "DISTRITO",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "COD_DISTRI",
+   "alias": "COD_DISTRI",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "COD_LOCALI",
+   "alias": "COD_LOCALI",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "COD_ZONA",
+   "alias": "COD_ZONA",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "LOCALIDAD",
+   "alias": "LOCALIDAD",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "COD_ENTIDA",
+   "alias": "COD_ENTIDA",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "COD_MANZAN",
+   "alias": "COD_MANZAN",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "ENTIDAD",
+   "alias": "ENTIDAD",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "TIPO_MZ",
+   "alias": "TIPO_MZ",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "COD_CATEGO",
+   "alias": "COD_CATEGO",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "CATEGORIA",
+   "alias": "CATEGORIA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "MZ_BASE_CE",
+   "alias": "MZ_BASE_CE",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "ID_ENTIDAD",
+   "alias": "ID_ENTIDAD",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "ID_LOCALID",
+   "alias": "ID_LOCALID",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "ID_DISTRIT",
+   "alias": "ID_DISTRIT",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "ID_ZONA",
+   "alias": "ID_ZONA",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_per",
+   "alias": "n_per",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_hombres",
+   "alias": "n_hombres",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mujeres",
+   "alias": "n_mujeres",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_edad_0_5",
+   "alias": "0 a 5 años",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_edad_6_1",
+   "alias": "6 a 13 años",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_edad_14_",
+   "alias": "14 a 17 años",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_edad_18_",
+   "alias": "18 a 24 años",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_edad_25_",
+   "alias": "n_edad_25_",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_edad_45_",
+   "alias": "n_edad_45_",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_edad_60_",
+   "alias": "n_edad_60_",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "prom_edad",
+   "alias": "prom_edad",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_inmigran",
+   "alias": "n_inmigran",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_nacional",
+   "alias": "n_nacional",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_pueblos_",
+   "alias": "n_pueblos_",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_afrodesc",
+   "alias": "n_afrodesc",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_lengua_i",
+   "alias": "n_lengua_i",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_religion",
+   "alias": "n_religion",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_dificult",
+   "alias": "n_dificult",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_dificu_1",
+   "alias": "n_dificu_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_dificu_2",
+   "alias": "n_dificu_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_dificu_3",
+   "alias": "n_dificu_3",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_dificu_4",
+   "alias": "n_dificu_4",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_dificu_5",
+   "alias": "n_dificu_5",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_discapac",
+   "alias": "n_discapac",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_estcivco",
+   "alias": "n_estcivco",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_estciv_1",
+   "alias": "n_estciv_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_estciv_2",
+   "alias": "n_estciv_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_estciv_3",
+   "alias": "n_estciv_3",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_estciv_4",
+   "alias": "n_estciv_4",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_estciv_5",
+   "alias": "n_estciv_5",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "prom_escol",
+   "alias": "prom_escol",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_asistenc",
+   "alias": "n_asistenc",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_asiste_1",
+   "alias": "n_asiste_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_asiste_2",
+   "alias": "n_asiste_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_asiste_3",
+   "alias": "n_asiste_3",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_cine_nun",
+   "alias": "n_cine_nun",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_cine_pri",
+   "alias": "n_cine_pri",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_cine_sec",
+   "alias": "n_cine_sec",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_cine_ter",
+   "alias": "n_cine_ter",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_cine_esp",
+   "alias": "n_cine_esp",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_analfabe",
+   "alias": "n_analfabe",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_ocupado",
+   "alias": "n_ocupado",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_desocupa",
+   "alias": "n_desocupa",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_fuera_fu",
+   "alias": "n_fuera_fu",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_cise_rec",
+   "alias": "n_cise_rec",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_cise_r_1",
+   "alias": "n_cise_r_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_cise_r_2",
+   "alias": "n_cise_r_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_ciuo_1",
+   "alias": "n_ciuo_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_ciuo_2",
+   "alias": "n_ciuo_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_ciuo_3",
+   "alias": "n_ciuo_3",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_ciuo_4",
+   "alias": "n_ciuo_4",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_ciuo_5",
+   "alias": "n_ciuo_5",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_ciuo_6",
+   "alias": "n_ciuo_6",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_ciuo_7",
+   "alias": "n_ciuo_7",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_ciuo_8",
+   "alias": "n_ciuo_8",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_ciuo_9",
+   "alias": "n_ciuo_9",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_ciuo_0",
+   "alias": "n_ciuo_0",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_A",
+   "alias": "n_caenes_A",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_B",
+   "alias": "n_caenes_B",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_C",
+   "alias": "n_caenes_C",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_D",
+   "alias": "n_caenes_D",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_E",
+   "alias": "n_caenes_E",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_F",
+   "alias": "n_caenes_F",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_G",
+   "alias": "n_caenes_G",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_H",
+   "alias": "n_caenes_H",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_I",
+   "alias": "n_caenes_I",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_J",
+   "alias": "n_caenes_J",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_K",
+   "alias": "n_caenes_K",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_L",
+   "alias": "n_caenes_L",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_M",
+   "alias": "n_caenes_M",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_N",
+   "alias": "n_caenes_N",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_O",
+   "alias": "n_caenes_O",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_P",
+   "alias": "n_caenes_P",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_Q",
+   "alias": "n_caenes_Q",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_R",
+   "alias": "n_caenes_R",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_S",
+   "alias": "n_caenes_S",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_T",
+   "alias": "n_caenes_T",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_caenes_U",
+   "alias": "n_caenes_U",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_transpor",
+   "alias": "n_transpor",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_transp_1",
+   "alias": "n_transp_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_transp_2",
+   "alias": "n_transp_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_transp_3",
+   "alias": "n_transp_3",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_transp_4",
+   "alias": "n_transp_4",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_transp_5",
+   "alias": "n_transp_5",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_transp_6",
+   "alias": "n_transp_6",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_hog",
+   "alias": "n_hog",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "prom_per_h",
+   "alias": "prom_per_h",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_hog_unip",
+   "alias": "n_hog_unip",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_hog_60",
+   "alias": "n_hog_60",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_hog_meno",
+   "alias": "n_hog_meno",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_jefatura",
+   "alias": "n_jefatura",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_tenencia",
+   "alias": "n_tenencia",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_tenenc_1",
+   "alias": "n_tenenc_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_tenenc_2",
+   "alias": "n_tenenc_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_tenenc_3",
+   "alias": "n_tenenc_3",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_tenenc_4",
+   "alias": "n_tenenc_4",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_tenenc_5",
+   "alias": "n_tenenc_5",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_tenenc_6",
+   "alias": "n_tenenc_6",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb_coc",
+   "alias": "n_comb_coc",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb_c_1",
+   "alias": "n_comb_c_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb_c_2",
+   "alias": "n_comb_c_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb_c_3",
+   "alias": "n_comb_c_3",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb_c_4",
+   "alias": "n_comb_c_4",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb_c_5",
+   "alias": "n_comb_c_5",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb_c_6",
+   "alias": "n_comb_c_6",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb_c_7",
+   "alias": "n_comb_c_7",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb_cal",
+   "alias": "n_comb_cal",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb_c_8",
+   "alias": "n_comb_c_8",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb_c_9",
+   "alias": "n_comb_c_9",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb__10",
+   "alias": "n_comb__10",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb__11",
+   "alias": "n_comb__11",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb__12",
+   "alias": "n_comb__12",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb__13",
+   "alias": "n_comb__13",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_comb__14",
+   "alias": "n_comb__14",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_serv_tel",
+   "alias": "n_serv_tel",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_serv_com",
+   "alias": "n_serv_com",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_serv_tab",
+   "alias": "n_serv_tab",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_serv_int",
+   "alias": "n_serv_int",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_serv_i_1",
+   "alias": "n_serv_i_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_serv_i_2",
+   "alias": "n_serv_i_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_internet",
+   "alias": "n_internet",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_vp",
+   "alias": "n_vp",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_vp_ocupa",
+   "alias": "n_vp_ocupa",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_vp_desoc",
+   "alias": "n_vp_desoc",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_tipo_viv",
+   "alias": "n_tipo_viv",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_tipo_v_1",
+   "alias": "n_tipo_v_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_tipo_v_2",
+   "alias": "n_tipo_v_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_tipo_v_3",
+   "alias": "n_tipo_v_3",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_tipo_v_4",
+   "alias": "n_tipo_v_4",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_tipo_v_5",
+   "alias": "n_tipo_v_5",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_tipo_v_6",
+   "alias": "n_tipo_v_6",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_dormitor",
+   "alias": "n_dormitor",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_dormit_1",
+   "alias": "n_dormit_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_dormit_2",
+   "alias": "n_dormit_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_dormit_3",
+   "alias": "n_dormit_3",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_dormit_4",
+   "alias": "n_dormit_4",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_dormit_5",
+   "alias": "n_dormit_5",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_viv_haci",
+   "alias": "n_viv_haci",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_viv_irre",
+   "alias": "n_viv_irre",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_hog_alle",
+   "alias": "n_hog_alle",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_nucleos_",
+   "alias": "n_nucleos_",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_viv_no_a",
+   "alias": "n_viv_no_a",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_deficit_",
+   "alias": "n_deficit_",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_pare",
+   "alias": "n_mat_pare",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_pa_1",
+   "alias": "n_mat_pa_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_pa_2",
+   "alias": "n_mat_pa_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_pa_3",
+   "alias": "n_mat_pa_3",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_pa_4",
+   "alias": "n_mat_pa_4",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_pa_5",
+   "alias": "n_mat_pa_5",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_tech",
+   "alias": "n_mat_tech",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_te_1",
+   "alias": "n_mat_te_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_te_2",
+   "alias": "n_mat_te_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_te_3",
+   "alias": "n_mat_te_3",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_te_4",
+   "alias": "n_mat_te_4",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_te_5",
+   "alias": "n_mat_te_5",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_te_6",
+   "alias": "n_mat_te_6",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_te_7",
+   "alias": "n_mat_te_7",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_piso",
+   "alias": "n_mat_piso",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_pi_1",
+   "alias": "n_mat_pi_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_pi_2",
+   "alias": "n_mat_pi_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_pi_3",
+   "alias": "n_mat_pi_3",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_mat_pi_4",
+   "alias": "n_mat_pi_4",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_fuente_a",
+   "alias": "n_fuente_a",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_fuente_1",
+   "alias": "n_fuente_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_fuente_2",
+   "alias": "n_fuente_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_fuente_3",
+   "alias": "n_fuente_3",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_distrib_",
+   "alias": "n_distrib_",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_distrib1",
+   "alias": "n_distrib1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_distri_1",
+   "alias": "n_distri_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_serv_hig",
+   "alias": "n_serv_hig",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_serv_h_1",
+   "alias": "n_serv_h_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_serv_h_2",
+   "alias": "n_serv_h_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_serv_h_3",
+   "alias": "n_serv_h_3",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_serv_h_4",
+   "alias": "n_serv_h_4",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_serv_h_5",
+   "alias": "n_serv_h_5",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_serv_h_6",
+   "alias": "n_serv_h_6",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_serv_h_7",
+   "alias": "n_serv_h_7",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_serv_h_8",
+   "alias": "n_serv_h_8",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_fuente_e",
+   "alias": "n_fuente_e",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_fuente_4",
+   "alias": "n_fuente_4",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_fuente_5",
+   "alias": "n_fuente_5",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_fuente_6",
+   "alias": "n_fuente_6",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_fuente_7",
+   "alias": "n_fuente_7",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_fuente_8",
+   "alias": "n_fuente_8",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_basura_s",
+   "alias": "n_basura_s",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_basura_e",
+   "alias": "n_basura_e",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_basura_1",
+   "alias": "n_basura_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_basura_r",
+   "alias": "n_basura_r",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "n_basura_o",
+   "alias": "n_basura_o",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "SHAPE_Leng",
+   "alias": "SHAPE_Leng",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "t_reg_ca",
+   "alias": "t_reg_ca",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "t_prov_ca",
+   "alias": "t_prov_ca",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "t_com",
+   "alias": "t_com",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "t_reg_nom",
+   "alias": "t_reg_nom",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "t_prov_nom",
+   "alias": "t_prov_nom",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "t_com_nom",
+   "alias": "t_com_nom",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "t_id_uv_ca",
+   "alias": "t_id_uv_ca",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "uv_carto",
+   "alias": "uv_carto",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "t_uv_nom",
+   "alias": "t_uv_nom",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "Shape_Le_1",
+   "alias": "Shape_Le_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Shape_Le_2",
+   "alias": "Shape_Le_2",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Shape_Ar_1",
+   "alias": "Shape_Ar_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Shape_Le_3",
+   "alias": "Shape_Le_3",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Shape_Area",
+   "alias": "Shape_Area",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Shape__Area",
+   "alias": "Shape__Area",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Shape__Length",
+   "alias": "Shape__Length",
+   "type": "esriFieldTypeDouble"
+  }
+ ]
+}

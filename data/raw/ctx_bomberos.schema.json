@@ -1,0 +1,68 @@
+{
+ "url": "https://services.arcgis.com/JZxvGBwvCaXCwa4l/arcgis/rest/services/EL_SAUCE_Shape_contexto/FeatureServer/0",
+ "name": "Bomberos",
+ "geometryType": "esriGeometryPoint",
+ "count": 3,
+ "fields": [
+  {
+   "name": "FID",
+   "alias": "FID",
+   "type": "esriFieldTypeOID"
+  },
+  {
+   "name": "OBJECTID_1",
+   "alias": "OBJECTID_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "CUT_CIA",
+   "alias": "CUT_CIA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "CUT_CUERPO",
+   "alias": "CUT_CUERPO",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "TELEFONO",
+   "alias": "TELEFONO",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "NOMBRE",
+   "alias": "NOMBRE",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "NOMBRE_1",
+   "alias": "NOMBRE_1",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ID_2002_20",
+   "alias": "ID_2002_20",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ID_2002",
+   "alias": "ID_2002",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "DIRECCION",
+   "alias": "DIRECCION",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "COMPAñIA",
+   "alias": "COMPAñIA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "Categoria",
+   "alias": "Categoria",
+   "type": "esriFieldTypeString"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "url": "https://services.arcgis.com/JZxvGBwvCaXCwa4l/arcgis/rest/services/UV_LO_ESPEJO/FeatureServer/0",
+ "name": "UV_LO_ESPEJO",
+ "geometryType": "esriGeometryPolygon",
+ "count": 15,
+ "fields": [
+  {
+   "name": "FID",
+   "alias": "FID",
+   "type": "esriFieldTypeOID"
+  },
+  {
+   "name": "t_reg_ca",
+   "alias": "t_reg_ca",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "t_prov_ca",
+   "alias": "t_prov_ca",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "t_com",
+   "alias": "t_com",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "t_reg_nom",
+   "alias": "t_reg_nom",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "t_prov_nom",
+   "alias": "t_prov_nom",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "t_com_nom",
+   "alias": "t_com_nom",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "t_id_uv_ca",
+   "alias": "t_id_uv_ca",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "uv_carto",
+   "alias": "uv_carto",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "t_uv_nom",
+   "alias": "t_uv_nom",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "Shape_Leng",
+   "alias": "Shape_Leng",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Shape_Le_1",
+   "alias": "Shape_Le_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Shape_Area",
+   "alias": "Shape_Area",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Shape__Area",
+   "alias": "Shape__Area",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Shape__Length",
+   "alias": "Shape__Length",
+   "type": "esriFieldTypeDouble"
+  }
+ ]
+}

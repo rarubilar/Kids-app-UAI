@@ -1,0 +1,23 @@
+{
+ "url": "https://services.arcgis.com/JZxvGBwvCaXCwa4l/arcgis/rest/services/EL_SAUCE_Shape_contexto/FeatureServer/5",
+ "name": "PDI",
+ "geometryType": "esriGeometryPoint",
+ "count": 1,
+ "fields": [
+  {
+   "name": "FID",
+   "alias": "FID",
+   "type": "esriFieldTypeOID"
+  },
+  {
+   "name": "ID",
+   "alias": "ID",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "NOMBRE",
+   "alias": "NOMBRE",
+   "type": "esriFieldTypeString"
+  }
+ ]
+}

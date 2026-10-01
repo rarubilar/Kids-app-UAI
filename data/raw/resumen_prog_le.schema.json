@@ -1,0 +1,38 @@
+{
+ "url": "https://services.arcgis.com/JZxvGBwvCaXCwa4l/arcgis/rest/services/RESUMEN_PROG_LE/FeatureServer/0",
+ "name": "RESUMEN_PROG_LE",
+ "geometryType": null,
+ "count": 85,
+ "fields": [
+  {
+   "name": "CATEGORÍA",
+   "alias": "CATEGORÍA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ORG_ORI",
+   "alias": "ORG_ORI",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "PROGRAMA",
+   "alias": "PROGRAMA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ORGANIZACIÓN_IMPLEMENTADORA",
+   "alias": "ORGANIZACIÓN_IMPLEMENTADORA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ORG_IMPLEMENTADORA",
+   "alias": "ORG_IMPLEMENTADORA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "OBJECTID",
+   "alias": "OBJECTID",
+   "type": "esriFieldTypeOID"
+  }
+ ]
+}

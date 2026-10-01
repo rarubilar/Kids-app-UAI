@@ -1,0 +1,238 @@
+{
+ "url": "https://services.arcgis.com/JZxvGBwvCaXCwa4l/arcgis/rest/services/MBHT_2017_Lo_Espejo/FeatureServer/0",
+ "name": "MBHT_2017_Lo_Espejo",
+ "geometryType": "esriGeometryPolygon",
+ "count": 765,
+ "fields": [
+  {
+   "name": "FID",
+   "alias": "FID",
+   "type": "esriFieldTypeOID"
+  },
+  {
+   "name": "id_manz",
+   "alias": "id_manz",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "manz_en",
+   "alias": "manz_en",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "nom_com",
+   "alias": "nom_com",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "cod_com",
+   "alias": "cod_com",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "nom_reg",
+   "alias": "nom_reg",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "cod_reg",
+   "alias": "cod_reg",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "nom_prv",
+   "alias": "nom_prv",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "cod_prv",
+   "alias": "cod_prv",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "zona",
+   "alias": "zona",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "id_mnzc",
+   "alias": "id_mnzc",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "area",
+   "alias": "area",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "total_v",
+   "alias": "total_v",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "hog_n",
+   "alias": "hog_n",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "persons",
+   "alias": "persons",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "e4a18",
+   "alias": "e4a18",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "e15a24",
+   "alias": "e15a24",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "iej",
+   "alias": "iej",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "irh",
+   "alias": "irh",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "iem",
+   "alias": "iem",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "ipj",
+   "alias": "ipj",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "isv",
+   "alias": "isv",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "ivi",
+   "alias": "ivi",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "iata",
+   "alias": "iata",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "icv",
+   "alias": "icv",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "icul",
+   "alias": "icul",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "iav",
+   "alias": "iav",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "isal",
+   "alias": "isal",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "idep",
+   "alias": "idep",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "iser",
+   "alias": "iser",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "ise",
+   "alias": "ise",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "igpe",
+   "alias": "igpe",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "igpr",
+   "alias": "igpr",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "ilpe",
+   "alias": "ilpe",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "ilpr",
+   "alias": "ilpr",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "dim_acc",
+   "alias": "dim_acc",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "dim_soc",
+   "alias": "dim_soc",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "dim_amb",
+   "alias": "dim_amb",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "dim_seg",
+   "alias": "dim_seg",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "bht",
+   "alias": "bht",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "tob",
+   "alias": "tob",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "Shape_Leng",
+   "alias": "Shape_Leng",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Shape_Area",
+   "alias": "Shape_Area",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Shape__Area",
+   "alias": "Shape__Area",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "Shape__Length",
+   "alias": "Shape__Length",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "LINK_MBHT",
+   "alias": "LINK_MBHT",
+   "type": "esriFieldTypeString"
+  }
+ ]
+}

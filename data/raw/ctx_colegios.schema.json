@@ -1,0 +1,98 @@
+{
+ "url": "https://services.arcgis.com/JZxvGBwvCaXCwa4l/arcgis/rest/services/EL_SAUCE_Shape_contexto/FeatureServer/1",
+ "name": "Colegios",
+ "geometryType": "esriGeometryPoint",
+ "count": 36,
+ "fields": [
+  {
+   "name": "FID",
+   "alias": "FID",
+   "type": "esriFieldTypeOID"
+  },
+  {
+   "name": "fid_1",
+   "alias": "fid_1",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "ID_RBD",
+   "alias": "ID_RBD",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "AGNO",
+   "alias": "AGNO",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "DGV_RBD",
+   "alias": "DGV_RBD",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "NOM_RBD",
+   "alias": "NOM_RBD",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "COD_DEPE",
+   "alias": "COD_DEPE",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "COD_DEPE2",
+   "alias": "COD_DEPE2",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "RURAL_RBD",
+   "alias": "RURAL_RBD",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "COD_REG_RB",
+   "alias": "COD_REG_RB",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "NOM_REG_RB",
+   "alias": "NOM_REG_RB",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "COD_PRO_RB",
+   "alias": "COD_PRO_RB",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "COD_COM_RB",
+   "alias": "COD_COM_RB",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "NOM_COM_RB",
+   "alias": "NOM_COM_RB",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "COD_DEPROV",
+   "alias": "COD_DEPROV",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "NOM_DEPROV",
+   "alias": "NOM_DEPROV",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ESTADO_EST",
+   "alias": "ESTADO_EST",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "ID_CIT",
+   "alias": "ID_CIT",
+   "type": "esriFieldTypeInteger"
+  }
+ ]
+}

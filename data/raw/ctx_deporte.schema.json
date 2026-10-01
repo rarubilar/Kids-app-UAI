@@ -1,0 +1,73 @@
+{
+ "url": "https://services.arcgis.com/JZxvGBwvCaXCwa4l/arcgis/rest/services/EL_SAUCE_Shape_contexto/FeatureServer/3",
+ "name": "Deporte",
+ "geometryType": "esriGeometryPoint",
+ "count": 56,
+ "fields": [
+  {
+   "name": "FID",
+   "alias": "FID",
+   "type": "esriFieldTypeOID"
+  },
+  {
+   "name": "NOMBRE",
+   "alias": "NOMBRE",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "AREA",
+   "alias": "AREA",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "NOM_REG",
+   "alias": "NOM_REG",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "NOM_COM",
+   "alias": "NOM_COM",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "CATEGORIA",
+   "alias": "CATEGORIA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "DIRECCION",
+   "alias": "DIRECCION",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "FUENTE",
+   "alias": "FUENTE",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ID",
+   "alias": "ID",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "COD_COM",
+   "alias": "COD_COM",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "COD_REG",
+   "alias": "COD_REG",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "tipo",
+   "alias": "tipo",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "proceso",
+   "alias": "proceso",
+   "type": "esriFieldTypeInteger"
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "url": "https://services.arcgis.com/JZxvGBwvCaXCwa4l/arcgis/rest/services/EL_SAUCE_Shape_contexto/FeatureServer/8",
+ "name": "Salud",
+ "geometryType": "esriGeometryPoint",
+ "count": 9,
+ "fields": [
+  {
+   "name": "FID",
+   "alias": "FID",
+   "type": "esriFieldTypeOID"
+  },
+  {
+   "name": "OBJECTID_1",
+   "alias": "OBJECTID_1",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "ID",
+   "alias": "ID",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "DEPENDENC",
+   "alias": "DEPENDENC",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "NOMBRE",
+   "alias": "NOMBRE",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "TIPO",
+   "alias": "TIPO",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "PERTENENCI",
+   "alias": "PERTENENCI",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "AMBITO_1",
+   "alias": "AMBITO_1",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "AMBITO_2",
+   "alias": "AMBITO_2",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "AMBITO_3",
+   "alias": "AMBITO_3",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "AMBITO_4",
+   "alias": "AMBITO_4",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "AMBITO_5",
+   "alias": "AMBITO_5",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "CERTIFI",
+   "alias": "CERTIFI",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "DEP_ADM",
+   "alias": "DEP_ADM",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "NIVEL",
+   "alias": "NIVEL",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "COD_COM",
+   "alias": "COD_COM",
+   "type": "esriFieldTypeInteger"
+  },
+  {
+   "name": "VIA",
+   "alias": "VIA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "URGENCIA",
+   "alias": "URGENCIA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "TIPO_URGE",
+   "alias": "TIPO_URGE",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "CLAS_SAPU",
+   "alias": "CLAS_SAPU",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "LATITUD",
+   "alias": "LATITUD",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "LONGITUD",
+   "alias": "LONGITUD",
+   "type": "esriFieldTypeDouble"
+  },
+  {
+   "name": "PRESTADOR",
+   "alias": "PRESTADOR",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "ESTADO",
+   "alias": "ESTADO",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "COMPLEJIDA",
+   "alias": "COMPLEJIDA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "TIPO_ATEN",
+   "alias": "TIPO_ATEN",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "REGION",
+   "alias": "REGION",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "PROVINCIA",
+   "alias": "PROVINCIA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "COMUNA",
+   "alias": "COMUNA",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "DIRECCION",
+   "alias": "DIRECCION",
+   "type": "esriFieldTypeString"
+  },
+  {
+   "name": "DISCAP",
+   "alias": "DISCAP",
+   "type": "esriFieldTypeString"
+  }
+ ]
+}
